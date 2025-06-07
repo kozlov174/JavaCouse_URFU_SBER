@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+        
+    <car>
+                
+        <brand>Toyota</brand>
+                
+        <model>Camry</model>
+                
+        <year>2019</year>
+                
+        <price>22000</price>
+            
+    </car>
+        
+    <car>
+                
+        <brand>Honda</brand>
+                
+        <model>Civic</model>
+                
+        <year>2018</year>
+                
+        <price>18000</price>
+            
+    </car>
+        
+    <car>
+                
+        <brand>Ford</brand>
+                
+        <model>Focus</model>
+                
+        <year>2020</year>
+                
+        <price>20000</price>
+            
+    </car>
+    
+    <car>
+        <brand>volkswagen</brand>
+        <model>golf</model>
+        <year>2020</year>
+        <price>10000000</price>
+    </car>
+</cars>
